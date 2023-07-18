@@ -1,0 +1,4 @@
+azure-identity
+azure-storage-queue
+azure-storage-blob
+azure-storage-file-datalake
