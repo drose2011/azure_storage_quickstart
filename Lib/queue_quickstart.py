@@ -1,5 +1,4 @@
 from storage_utils import StorageUtil
-from azure.storage.queue import QueueClient
 
 if __name__ == '__main__':
     # Azure location
